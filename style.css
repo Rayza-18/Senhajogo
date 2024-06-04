@@ -1,0 +1,46 @@
+body {
+        display: flex;
+        align-items: center;
+        text-align: center;
+    font-size: 15pt;
+    margin:10%;
+}
+form{
+        display: flex;
+        align-content: center;
+        align-items: center;
+        
+        text-align: center;
+        
+       border:solid 1px olivedrab;
+       height: 220px;
+}
+button{
+        margin:5%;
+        border:none;
+        background-color: olivedrab;
+        border-radius: 12px;
+}
+input{
+        width: 90%;
+        height: 34px;
+        border:solid 1px olivedrab;
+        margin-left: 5%;
+        
+}
+div{
+        display: flex;
+        flex-direction: column;
+}
+#alface{
+        width: 100%;
+}
+main{
+        display: none;
+        width: 300%;
+        background-color: #ffcbbe;
+}
+h2{
+      
+        color:black;
+}
